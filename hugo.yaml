@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: zacroyoga
   description: "zachary cohen's acroyoga site"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Acroyoga]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
