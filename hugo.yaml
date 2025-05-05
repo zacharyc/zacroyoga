@@ -1,6 +1,9 @@
 baseURL: "https://zacroyoga.com/"
 title: zacroyoga
-paginate: 10
+pagination:
+  disableAliases: false
+  pagerSize: 10
+  path: posts
 theme: PaperMod
 
 enableRobotsTXT: true

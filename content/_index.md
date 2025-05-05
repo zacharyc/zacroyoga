@@ -1,6 +1,5 @@
 ---
-Kind: single
-layout: single.html
+type: home
 ---
 
 this is a test.
